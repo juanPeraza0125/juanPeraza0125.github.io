@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'Historia de la Ingenieria de Software | Jala University',
     description: 'Blog - trabajo colaborativo para Historia de la Ingenieria de Software | Jala University',
     image: {
-        src: '/grupoc.png',
-        alt: 'Grupito c <3'
+        src: '/dante-preview.jpg',
+        alt: 'none'
     },
     headerNavLinks: [
         {
@@ -96,12 +96,12 @@ const siteConfig: SiteConfig = {
         title: 'Tema principal aqui',
         text: "Hola equipo, soy **Juan**, esta es una plantilla para la realizacion del blog, me gustaria que estudiaran el entorno que se utiliza tanto en el desarrollo como en el despliegue a traves de GitHub pages, se familiciarian con lo que es el front-end con Astro para los que tienen nulo conocimiento. De igual dejo el siguiente <a href='https://www.youtube.com/watch?v=v7HyyOnixJ8'>Link</a> para que vean como se puede editar en este proyecto. De igual manera en el README del repositorio estare dejando instrucciones basicas, cualquier pregunta en el grupo de trabajo.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/grupoc.png',
+            alt: 'Grupito c <3'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]

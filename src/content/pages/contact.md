@@ -1,14 +1,14 @@
 ---
-title: Get in touch
+title: Contacto de miembros
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contacts
+  description: Lista de contactos para miembros del equipo
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Gracias por leernos, estamos totalmente disponible para anotaciones, quejas, o feedback para el buen desarrollo de nuestro blog.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+_Lider:_
+ Santiago Conde [Santiago.Conde0125@jala.university](mailto:Santiago.Conde0125@jala.university)
 
 _Social Media:_
 Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
