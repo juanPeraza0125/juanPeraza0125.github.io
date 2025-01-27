@@ -1,9 +1,11 @@
 # Evaluación Intermedia Blog - Grupo C  
-**Historia de la Ingeniería de Software**  
-**Equipo:** C  
-**Tema:** *Trends in Platform Engineering*
-**Lider:** *[Santiago.Conde0125@jala.university](mailto:Santiago.Conde0125@jala.university)* 
-**Docente:** *[Juan.gonzales@jala.university](mailto:Juan.gonzales@jala.university)* 
+
+### **Historia de la Ingeniería de Software**  
+
+- **Equipo:** C  
+- **Tema:** *Trends in Platform Engineering*  
+- **Líder:** [Santiago.Conde0125@jala.university](mailto:Santiago.Conde0125@jala.university)  
+- **Docente:** [Juan.gonzales@jala.university](mailto:Juan.gonzales@jala.university)  
 
 [![Jala University](public/jala-u.png)](https://jalauniversity.instructure.com/courses/681/assignments/46844)  
 **Haz clic aquí para visualizar la tarea en Canvas.**
