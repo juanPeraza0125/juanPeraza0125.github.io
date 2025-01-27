@@ -1,9 +1,9 @@
 # Evaluación Intermedia Blog - Grupo C  
 **Historia de la Ingeniería de Software**  
 **Equipo:** C  
-**Tema:** *Trends in Platform Engineering*  
-
-![Evaluación Intermedia](public/evaluacion_intermedia_blog_c.png)  
+**Tema:** *Trends in Platform Engineering*
+**Lider:** *[Santiago.Conde0125@jala.university](mailto:Santiago.Conde0125@jala.university)* 
+**Docente:** *[Juan.gonzales@jala.university](mailto:Juan.gonzales@jala.university)* 
 
 [![Jala University](public/jala-u.png)](https://jalauniversity.instructure.com/courses/681/assignments/46844)  
 **Haz clic aquí para visualizar la tarea en Canvas.**
@@ -69,33 +69,12 @@ Asignar a cada miembro una sección específica del blog.
 
 ## Notas Importantes sobre el Proyecto  
 
-### Estructura del Proyecto  
-
-El proyecto sigue la siguiente estructura de carpetas:  
-
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── data/
-│   ├── icons/
-│   ├── layouts/
-│   ├── pages/
-│   ├── styles/
-│   └── utils/
-├── astro.config.mjs
-├── package.json
-├── README.md
-├── tailwind.config.cjs
-└── tsconfig.json
-
-
 ### Puntos Clave:
 
 - **`content/`:** Aquí se encuentra todo el contenido del blog.  
   - **`blogs/`:** Sección principal para la creación y edición de blogs.  
   - **`projects/`:** Contenido relacionado con proyectos específicos.  
-  - **`pages/`:** Páginas estáticas del menú, como "Acerca de" o "Contacto".  
+  - **`pages/`:** Páginas estáticas del menú, "Contacto", "Tags", "Inicio".  
 
 - **`public/`:** Carpeta para recursos gráficos como imágenes e íconos.  
 
