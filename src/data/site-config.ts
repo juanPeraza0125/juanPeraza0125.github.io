@@ -39,15 +39,15 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Blog Grupo C',
-    subtitle: 'Historia de la Ingenieria de Software',
+    subtitle: 'Historia de la Ingenieria de Software | Jala University',
     description: 'Blog - trabajo colaborativo para Historia de la Ingenieria de Software | Jala University',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/grupoc.png',
+        alt: 'Grupito c <3'
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
@@ -93,8 +93,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Tema principal aqui',
+        text: "Hola equipo, soy **Juan**, esta es una plantilla para la realizacion del blog, me gustaria que estudiaran el entorno que se utiliza tanto en el desarrollo como en el despliegue a traves de GitHub pages, se familiciarian con lo que es el front-end con Astro para los que tienen nulo conocimiento. De igual dejo el siguiente <a href='https://www.youtube.com/watch?v=v7HyyOnixJ8'>Link</a> para que vean como se puede editar en este proyecto. De igual manera en el README del repositorio estare dejando instrucciones basicas, cualquier pregunta en el grupo de trabajo.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
