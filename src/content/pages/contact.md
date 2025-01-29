@@ -1,8 +1,9 @@
 ---
-title: Contacto de miembros
+title: 👥 Contacto de miembros ☑️
 seo:
   title: Contacts
   description: Lista de contactos para miembros del equipo
+---
 ---
 
 ¡Gracias por leernos! Estamos totalmente disponibles para recibir anotaciones, quejas o cualquier tipo de feedback que pueda contribuir al buen desarrollo de nuestro blog.

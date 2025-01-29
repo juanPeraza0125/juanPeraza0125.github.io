@@ -4,6 +4,12 @@ export type Image = {
     caption?: string;
 };
 
+export type Image2 = {
+    src: string;
+    alt?: string;
+    caption?: string;
+};
+
 export type Link = {
     text: string;
     href: string;
@@ -28,6 +34,7 @@ export type SiteConfig = {
     subtitle?: string;
     description: string;
     image?: Image;
+    image2?: Image2;
     headerNavLinks?: Link[];
     footerNavLinks?: Link[];
     socialLinks?: Link[];
@@ -39,29 +46,37 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Blog Grupo C',
-    subtitle: 'Historia de la Ingenieria de Software | Jala University',
+    subtitle: 'Historia de la Ingenieria de Software | Jala University, 2025',
     description: 'Blog - trabajo colaborativo para Historia de la Ingenieria de Software | Jala University',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'none'
-    },
+        image2: {
+            src: '/jala-u.png',  // Aquí está tu nueva imagen
+            alt: 'Imagen extra de Jala'
+        },
+
+    
+ 
     headerNavLinks: [
         {
             text: 'Inicio',
             href: '/'
         },
+        /*
         {
             text: 'Projects',
             href: '/projects'
         },
+        */
+        
         {
-            text: 'Blog',
+            text: 'Blogs',
             href: '/blog'
         },
+        /*
         {
             text: 'Tags',
             href: '/tags'
         },
+        */
         {
             text: 'Contacto',
             href: '/contact'
@@ -97,23 +112,23 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Tema principal aqui',
-        text: "Hola equipo, soy **Juan**, esta es una plantilla para la realizacion del blog, me gustaria que estudiaran el entorno que se utiliza tanto en el desarrollo como en el despliegue a traves de GitHub pages, se familiciarian con lo que es el front-end con Astro para los que tienen nulo conocimiento. De igual dejo el siguiente <a href='https://www.youtube.com/watch?v=v7HyyOnixJ8'>Link</a> para que vean como se puede editar en este proyecto. De igual manera en el README del repositorio estare dejando instrucciones basicas, cualquier pregunta en el grupo de trabajo.",
-        /*image: {
-            src: '/grupoc.png',
-            alt: 'Grupito c <3'
-        },*/
+        title: '📈 Trends in Platform Engineering',
+        text: "La ingeniería de plataformas está transformando el desarrollo de software al optimizar la interacción entre desarrolladores y sistemas complejos. Este blog colaborativo analiza las tendencias emergentes en la ingeniería de plataformas, su impacto en la eficiencia de los equipos y las innovaciones tecnológicas que están remodelando la industria. Exploraremos conceptos clave como plataformas internas, automatización, DevOps y más, proporcionando una visión general del panorama actual y futuro.",
+        image: {
+            src: '/ilustracionHome.png',
+            alt: 'Platform ING'
+        },
         actions: [
             {
-                text: 'Contacto',
-                href: '/contact'
+                text: 'Leer más',
+                href: '/blog'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
+        title: 'Subscribete para más contenido',
+        text: 'Notificación via e-mail cada semana',
+        formUrl: 'juanesmako3707@gmail.com'
     },
     postsPerPage: 8,
     //projectsPerPage: 8

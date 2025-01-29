@@ -17,7 +17,14 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>
     <Hero />
-    {
+    {/* Renderizamos la imagen2 después de la descripción */}
+    {siteConfig.image2?.src && (
+        <section class="image2-section my-16">
+            <img class="w-full" src={siteConfig.image2.src} alt={siteConfig.image2.alt || 'Imagen extra'} />
+        </section>
+    )}
+   
+    { /*
         featuredProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">
                 <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Projects</h2>
@@ -29,11 +36,11 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
                 </div>
             </div>
         )
-    }
-    {
+    */}
+    {/*
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Writing</h2>
+                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Orden de lectura:</h2>
                 {featuredPosts.map((post) => (
                     <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
                 ))}
@@ -42,5 +49,5 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
                 </div>
             </div>
         )
-    }
+    */}
 </BaseLayout>
