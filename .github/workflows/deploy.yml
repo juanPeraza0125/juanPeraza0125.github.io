@@ -18,22 +18,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repository using git
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Install, build, and upload your site
-        uses: withastro/action@v3
-        # Elimina el caché de npm para forzar la instalación desde cero
-      - name: Remove npm cache
-        run: rm -rf ~/.npm
 
-      - name: Upload artifact
+      - name: Build site
+        run: npm run build
+
+      - name: Archive and upload page artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: artifact-${{ github.run_id }}
+          path: ./dist
+
+      - name: Upload additional artifact
         uses: actions/upload-artifact@v4
         with:
-          name: my-artifact-${{ github.run_id }}  # Usa un identificador único
-          path: path/to/artifact
-            
-      - name: Install, build, and upload your site
-        uses: withastro/action@v3
+          name: additional-artifact-${{ github.run_id }}
+          path: ./dist
+
         # with:
           # path: . # The root location of your Astro project inside the repository. (optional)
           # node-version: 20 # The specific version of Node that should be used to build your site. Defaults to 20. (optional)
