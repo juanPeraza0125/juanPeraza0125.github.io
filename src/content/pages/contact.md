@@ -7,7 +7,7 @@ seo:
 
 ¡Gracias por leernos! Estamos totalmente disponibles para recibir anotaciones, quejas o cualquier tipo de feedback que pueda contribuir al buen desarrollo de nuestro blog.
 
-[![Jala University](public/jala-u.png)]
+[![Jala University](public/grupoc.png)]
 ---
 
 **Profesor:**  
