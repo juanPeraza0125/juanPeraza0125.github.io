@@ -99,10 +99,10 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Tema principal aqui',
         text: "Hola equipo, soy **Juan**, esta es una plantilla para la realizacion del blog, me gustaria que estudiaran el entorno que se utiliza tanto en el desarrollo como en el despliegue a traves de GitHub pages, se familiciarian con lo que es el front-end con Astro para los que tienen nulo conocimiento. De igual dejo el siguiente <a href='https://www.youtube.com/watch?v=v7HyyOnixJ8'>Link</a> para que vean como se puede editar en este proyecto. De igual manera en el README del repositorio estare dejando instrucciones basicas, cualquier pregunta en el grupo de trabajo.",
-        image: {
+        /*image: {
             src: '/grupoc.png',
             alt: 'Grupito c <3'
-        },
+        },*/
         actions: [
             {
                 text: 'Contacto',
