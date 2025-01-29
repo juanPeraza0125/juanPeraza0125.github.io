@@ -1,7 +1,7 @@
 ---
 title: 4. Casos de éxito
-excerpt: Are you interested in embarking on a rewarding career as a front-end developer or looking to advance your existing skills in this dynamic field?
-publishDate: 'Dec 15 2023'
+excerpt: Descubre cómo la ingeniería de plataformas impulsa la innovación en el desarrollo de software. En este blog, exploramos casos de éxito de empresas que han optimizado sus flujos de trabajo, mejorado la colaboración entre equipos y acelerado la entrega de productos mediante plataformas internas, automatización y DevOps. ¡Inspírate con sus logros! 🎉
+publishDate: 'Jan 27 2025'
 tags:
   - Web
   - Guide

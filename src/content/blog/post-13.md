@@ -1,7 +1,7 @@
 ---
 title: '2. Tendencias emergentes'
-excerpt: Dive deep into web performance metrics, including tools and techniques for measuring and optimizing loading times. Discuss the significance of metrics like First Contentful Paint, Time to Interactive, and more.
-publishDate: 'Jan 30 2025'
+excerpt: Explora las tendencias emergentes en la ingeniería de plataformas y su impacto en el desarrollo de software. Desde automatización y DevOps hasta plataformas internas, este blog analiza innovaciones clave que optimizan la eficiencia de los equipos y transforman la industria tecnológica. Mantente al día con los cambios que están dando forma al futuro. 📊
+publishDate: 'Jan 29 2025'
 tags:
   - Web
   - Guide
@@ -24,19 +24,15 @@ Page load time is the total time it takes for a web page to fully load. This met
 ### **Infraestructura como código (IaC)**
 #### **- (Leonel Toloza**)
 
-TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times. To improve TTFB, optimize server response times, utilize content delivery networks (CDNs), and consider server upgrades if necessary.
+TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times.
 
 ## Render Time
 
 Render time focuses on how quickly a web page can render and display content. This metric is crucial for providing a seamless user experience. Optimize render time by minimizing render-blocking resources, optimizing CSS and JavaScript, and utilizing techniques like lazy loading for images.
 
-## Mobile Performance
-
-With the increasing prevalence of mobile users, optimizing web performance for mobile devices is paramount. Google's mobile-first indexing means that mobile performance directly influences search rankings. Ensure your website is responsive, utilize mobile-friendly design practices, and prioritize mobile performance metrics such as mobile page speed and mobile-friendliness.
-
 
 ## **Plataformas internas y su adopción en empresas**
-### **Fabricio Ibarra**n
+### **- (Fabricio Ibarra)**
 
 Monitoring resource utilization involves tracking how efficiently your website uses server resources, such as CPU and memory. Overloaded servers can lead to slower response times and degraded user experience. Regularly audit and optimize your website's code, databases, and server configurations to ensure efficient resource utilization.
 

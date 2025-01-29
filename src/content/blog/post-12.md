@@ -1,7 +1,7 @@
 ---
 title: 3. Beneficios clave para las empresas
-excerpt: In the ever-evolving world of web development, staying on top of the latest trends and tools is essential. One such tool that has gained immense popularity in recent years is Tailwind CSS.
-publishDate: 'Jan 02 2024'
+excerpt: Descubre cómo la ingeniería de plataformas optimiza el desarrollo de software, mejorando la eficiencia, la automatización y la colaboración en las empresas. Exploramos sus beneficios clave, desde la reducción de costos hasta la aceleración de la entrega de productos, impulsando la innovación y la competitividad en el mercado. 💰
+publishDate: 'Jan 28 2025'
 tags:
   - Web
   - Guide

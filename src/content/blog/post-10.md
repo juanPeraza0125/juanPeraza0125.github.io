@@ -1,7 +1,7 @@
 ---
 title: '5. Desafíos y el futuro de la ingeniería de plataformas'
-excerpt: In the ever-evolving landscape of content management systems (CMS), a new player has been gaining significant traction - the headless CMS.
-publishDate: 'Nov 14 2023'
+excerpt: La ingeniería de plataformas está revolucionando el desarrollo de software, pero enfrenta desafíos como la escalabilidad, la automatización y la adopción de DevOps. Este blog explora el presente y futuro de la disciplina, analizando tendencias clave, mejores prácticas y cómo las plataformas pueden optimizar la productividad y eficiencia en la industria tecnológica. 🚀
+publishDate: 'Jan 26 2025'
 tags:
   - Security
   - UX

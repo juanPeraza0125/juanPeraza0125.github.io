@@ -1,6 +1,6 @@
 ---
 title: '1.	Introducción a la ingeniería de plataformas'
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
+excerpt: La ingeniería de plataformas optimiza el desarrollo de software al crear entornos eficientes para los equipos. En este blog exploramos sus conceptos clave, beneficios y su impacto en la productividad. Descubre cómo la automatización, DevOps y las plataformas internas están transformando la industria tecnológica. 🚀
 publishDate: 'Jan 30 2025'
 isFeatured: true
 tags:
