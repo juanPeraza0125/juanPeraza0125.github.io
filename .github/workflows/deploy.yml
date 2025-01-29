@@ -25,7 +25,13 @@ jobs:
         # Elimina el caché de npm para forzar la instalación desde cero
       - name: Remove npm cache
         run: rm -rf ~/.npm
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: my-artifact-${{ github.run_id }}  # Usa un identificador único
+          path: path/to/artifact
+            
       - name: Install, build, and upload your site
         uses: withastro/action@v3
         # with:
