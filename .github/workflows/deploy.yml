@@ -21,19 +21,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Build site
         run: npm run build
 
-      - name: Archive and upload page artifact
+      - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           name: artifact-${{ github.run_id }}
-          path: ./dist
-
-      - name: Upload additional artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: additional-artifact-${{ github.run_id }}
           path: ./dist
 
         # with:
