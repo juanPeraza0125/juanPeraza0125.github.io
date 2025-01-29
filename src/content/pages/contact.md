@@ -4,7 +4,6 @@ seo:
   title: Contacts
   description: Lista de contactos para miembros del equipo
 ---
-Jala University
 
 ¡Gracias por leernos! Estamos totalmente disponibles para recibir anotaciones, quejas o cualquier tipo de feedback que pueda contribuir al buen desarrollo de nuestro blog.
 
