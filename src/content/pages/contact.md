@@ -5,11 +5,10 @@ seo:
   description: Lista de contactos para miembros del equipo
 ---
 
-# ¡Gracias por leernos!
+¡Gracias por leernos! Estamos totalmente disponibles para recibir anotaciones, quejas o cualquier tipo de feedback que pueda contribuir al buen desarrollo de nuestro blog.
 
-Estamos totalmente disponibles para recibir anotaciones, quejas o cualquier tipo de feedback que pueda contribuir al buen desarrollo de nuestro blog.
-
-## Contacto
+[![Jala University](public/jala-u.png)]
+---
 
 **Profesor:**  
 [Juan.gonzales@jala.university](mailto:Juan.gonzales@jala.university)

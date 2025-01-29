@@ -116,7 +116,7 @@ const siteConfig: SiteConfig = {
         formUrl: '#'
     },
     postsPerPage: 8,
-    projectsPerPage: 8
+    //projectsPerPage: 8
 };
 
 export default siteConfig;
