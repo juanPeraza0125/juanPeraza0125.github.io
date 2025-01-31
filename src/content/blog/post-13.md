@@ -1,6 +1,6 @@
 ---
 title: '2. Tendencias emergentes'
-excerpt: Explora las tendencias emergentes en la ingeniería de plataformas y su impacto en el desarrollo de software. Desde automatización y DevOps hasta plataformas internas, este blog analiza innovaciones clave que optimizan la eficiencia de los equipos y transforman la industria tecnológica. Mantente al día con los cambios que están dando forma al futuro. 📊
+excerpt: 'Realizado por: Juan Peraza, Leonel Toloza y Fabricio Ibarra. Explora las tendencias emergentes en la ingeniería de plataformas y su impacto en el desarrollo de software. Desde automatización y DevOps hasta plataformas internas, este blog analiza innovaciones clave que optimizan la eficiencia de los equipos y transforman la industria tecnológica. Mantente al día con los cambios que están dando forma al futuro. 📊'
 publishDate: 'Jan 29 2025'
 tags:
   - Web
@@ -19,20 +19,16 @@ seo:
 ## **Automatización avanzada**
 #### **- (Juan Peraza)** 
 
-Page load time is the total time it takes for a web page to fully load. This metric is a cornerstone of web performance, as users tend to abandon slow-loading sites. Google, in particular, considers page speed as a ranking factor for search results. To optimize page load time, consider compressing images, leveraging browser caching, and minimizing HTTP requests.
+Page load time is the total time it takes for a web page to fully load. This metric is a cornerstone of web performance, as users tend to abandon slow-loading sites. Google, in particular, considers page speed as a ranking factor for search results. 
 
 ### **Infraestructura como código (IaC)**
 #### **- (Leonel Toloza**)
 
 TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times.
 
-## Render Time
-
-Render time focuses on how quickly a web page can render and display content. This metric is crucial for providing a seamless user experience. Optimize render time by minimizing render-blocking resources, optimizing CSS and JavaScript, and utilizing techniques like lazy loading for images.
-
 
 ## **Plataformas internas y su adopción en empresas**
-### **- (Fabricio Ibarra)**
+#### **- (Fabricio Ibarra)**
 
 Monitoring resource utilization involves tracking how efficiently your website uses server resources, such as CPU and memory. Overloaded servers can lead to slower response times and degraded user experience. Regularly audit and optimize your website's code, databases, and server configurations to ensure efficient resource utilization.
 
