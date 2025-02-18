@@ -1,5 +1,5 @@
 ---
-title: '2. Tendencias emergentes'
+title: '2. Tendencias de Plataformas'
 excerpt: 'Realizado por: Juan Peraza, Leonel Toloza y Fabricio Ibarra. Explora las tendencias emergentes en la ingeniería de plataformas y su impacto en el desarrollo de software. Desde automatización y DevOps hasta plataformas internas, este blog analiza innovaciones clave que optimizan la eficiencia de los equipos y transforman la industria tecnológica. Mantente al día con los cambios que están dando forma al futuro. 📊'
 publishDate: 'Jan 29 2025'
 tags:
@@ -15,6 +15,10 @@ seo:
 ![Abstract snow](/post-13.jpg)
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+
+## **Tendencias emergentes**
+
+## **Plataforma Cloud Computing**
 
 ## **Automatización avanzada**
 #### **- (Juan Peraza)** 

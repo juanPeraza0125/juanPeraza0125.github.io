@@ -14,7 +14,8 @@ seo:
 
 ![Wind turbine](/post-12.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+**Note del profe:** comparación de plataformas, dar un background de beneficios de cada empresa que este comparando
+
 
 ## **Incremento de la productividad de los desarrolladores**
 #### **- (Valentina Saltos)** 

@@ -13,7 +13,7 @@ seo:
 
 ![Empty road into the Horizon](/post-11.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+**Note:** Las aplicaciones que se usaron en esos casos de exito, la empresa q lo implemento y  la tecnología que se uso.
 
 
 ## **Empresas líderes y sus implementaciones**
