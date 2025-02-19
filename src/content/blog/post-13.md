@@ -16,30 +16,36 @@ seo:
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
-## **Tendencias emergentes**
+## **Tendencias en ingenieria de plataformas**
+#### **- (Fabricio Ibarra)**
+- Que es la Tendencia de plataformas en la ingeniería 
+- Características de una ingeniería de plataformas y como identificarla como tendencia.
+
+---
+
+## **Tendencias Emergentes en Ingeniería de Plataformas**
+#### **- (Fabricio Ibarra)** 
+- Cuales son esas tendencias y principales cambios y avances que están moldeando la industria. Hacer una mención de Cloud Computing como tendencia influyente.
+
+---
 
 ## **Plataforma Cloud Computing**
+#### **- (Leonel Toloza)**
+- Definición y evolución de las plataformas en la nube.
+- Beneficios y desafíos de la adopción del Cloud Computing en las empresas.
+- Comparación entre diferentes modelos de nube: pública, privada e híbrida.
 
-## **Automatización avanzada**
+---
+
+## **Automatización y DevOps en Cloud Computing**
 #### **- (Juan Peraza)** 
 
-Page load time is the total time it takes for a web page to fully load. This metric is a cornerstone of web performance, as users tend to abandon slow-loading sites. Google, in particular, considers page speed as a ranking factor for search results. 
+- Rol de la automatización en la gestión de plataformas en la nube.
+- Integración con DevOps para mejorar la eficiencia en el desarrollo.
+- Agregar algo relevante en caso de ser necesario, pero que no sea información repetida con otros subtemas.
 
-### **Infraestructura como código (IaC)**
-#### **- (Leonel Toloza**)
-
-TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times.
-
-
-## **Plataformas internas y su adopción en empresas**
-#### **- (Fabricio Ibarra)**
-
-Monitoring resource utilization involves tracking how efficiently your website uses server resources, such as CPU and memory. Overloaded servers can lead to slower response times and degraded user experience. Regularly audit and optimize your website's code, databases, and server configurations to ensure efficient resource utilization.
-
-## Conversion Rate and Bounce Rate
-
-Web performance directly affects user engagement and conversion rates. Slow-loading pages can result in higher bounce rates and lower conversion rates. Use tools like Google Analytics to track user behavior, analyze bounce rates, and identify pages that may need performance improvements.
+---
 
 ## Conclusion
-
-Prioritizing web performance metrics is essential for creating a positive user experience, improving search engine rankings, and achieving business goals. Regularly monitor and optimize these metrics to ensure your website not only meets but exceeds user expectations in an ever-competitive online environment. By implementing best practices and staying informed about evolving performance standards, you can future-proof your website and provide a seamless experience for your visitors.
+- Conclusión general del equipo.
+- Si tienes una idea de conclusión mandarla al grupo para que aportemos a esa conclusión y formular algo coherente entre todos.

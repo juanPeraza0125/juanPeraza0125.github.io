@@ -17,48 +17,71 @@ seo:
 **Note:**  desafíos y el futuro de la ing. de plataformas(+ importante): Retos técnicos (añadir recursos humanos), antes de retos culturales van los retos tecnológicos, perspectivas a largo plazo (ampliar tema),  tendencias en equipos de desarrollo (cambiar nombre a -> "análisis de las implicaciones de las tecnologías"): los subtemas seran -> desde la parte de empresa, desde la parte  tecnológica, desde la parte técnica, desde la parte de software, Investigación sobre herramientas emergentes para la ingeniería de plataformas (desarrollar más el tema)
 
 
-## **Retos técnicos enfrentados por las empresas**
-## **Recursos humanos**
-#### **- (Romina Calani)** 
-
-Traditional CMS solutions have been the backbone of managing and delivering content for websites and applications. However, they often come with limitations, especially when it comes to flexibility and scalability. This is where headless CMS comes into play.
-
-> Headless CMS empowers content creators to think beyond the webpage, fostering a mindset where content is liberated from presentation constraints, ready to reach audiences across diverse digital touchpoints.
+## **Retos en Ingeniería de Plataformas**
+#### **- (Moises Hernandez y Joaquin Antezana)** 
 
 
-## **Retos tecnológicos**
-## **Retos culturales y cómo superarlos**
-#### **- (Moises Hernandez)**
+### **Retos Técnicos**
+#### **-(Antezana)** 
+- Complejidad en la arquitectura de sistemas y mantenimiento.
 
+---
 
-1. **Flexibility and Omnichannel Delivery:**
-   Headless CMS enables content to be created and stored without being tied to a specific presentation format. This flexibility allows businesses to deliver content seamlessly across various channels, including websites, mobile apps, IoT devices, and more.
+### **Retos de Recursos Humanos**
+#### **- (Antezana)** 
+- Escasez de talento especializado en plataformas modernas.
 
-2. **Improved Developer Productivity:**
-   Developers appreciate the freedom headless CMS provides. With the separation of concerns between content creation and presentation, developers can choose the most suitable technology stack for each aspect. This leads to increased productivity and the ability to adapt to evolving technologies.
+---
 
-## **Perspectivas a largo plazo:Tecnologías disruptivas y tendencias futuras AMPLIAR TEMA**
+### **Retos tecnológicos**
+#### **- (Moises)** 
+- Adaptación a nuevas tecnologías disruptivas.
+
+---
+
+### **Retos culturales**
+#### **- (Moises)**
+- Cambio organizacional para adoptar la ingeniería de plataformas.
+
+---
+
+## **Implicaciones de las Tecnologías**
 #### **- (Mercedes Soto)**
 
-While headless CMS offers numerous advantages, it's essential to be aware of potential challenges:
+### **En la Empresa**
+#### **- (Soto)**
+- Cómo impacta en la estrategia y crecimiento empresarial.
 
-1. **Learning Curve:**
-   Adopting a headless CMS may require a learning curve for both content creators and developers, as it deviates from the traditional CMS model.
+---
 
-2. **Integration Complexity:**
-   Integrating a headless CMS with existing systems and tools can be complex. However, once implemented, the flexibility it provides often outweighs the initial integration challenges.
+### **En las Tecnologias**
+#### **- (Soto)**
+- Evolución del hardware y software en plataformas modernas
 
-## **Análisis de las implicaciones de las tendencias para equipos de desarrollo**
-#### **- (Joaquin Antezana)**
-### subtemas  desde la parte de empresa, desde la parte  tecnológica y software
+---
 
-Traditional CMS solutions have been the backbone of managing and delivering content for websites and applications. However, they often come with limitations, especially when it comes to flexibility and scalability. This is where headless CMS comes into play.
+### **En lo Técnico**
+#### **- (Conde)**
+- Necesidades de infraestructura y soporte
 
-> Headless CMS empowers content creators to think beyond the webpage, fostering a mindset where content is liberated from presentation constraints, ready to reach audiences across diverse digital touchpoints.
+---
 
-## **Investigación sobre herramientas emergentes para la ingeniería de plataformas DESARROLLAR MAS EL TEMA**
-#### **- (Santiago C.)**
+### **En el Software**
+#### **- (Conde)**
+- Herramientas y frameworks más utilizados en el futuro.
+
+---
+
+
+## **Perspectivas a Largo Plazo: Tecnologías Disruptivas y Tendencias Futuras**
+#### **- (Romina)**
+
+### **Impacto de la inteligencia artificial en la automatización de plataformas**
+#### **- (Romina)**
+- Desarrollar más el tema
+
+---
 
 ## Conclusion
-
-The rise of headless CMS marks a paradigm shift in the way organizations manage and deliver content. While it presents challenges, the flexibility, scalability, and improved developer workflows make it an attractive option for businesses looking to future-proof their digital experiences. As the digital landscape continues to evolve, staying informed about emerging technologies like headless CMS is crucial for businesses aiming to stay ahead of the curve.
+- Conclusión general del equipo.
+- Si tienes una idea de conclusión mandarla al grupo para que aportemos a esa conclusión y formular algo coherente entre todos.

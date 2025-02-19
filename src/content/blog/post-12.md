@@ -1,5 +1,5 @@
 ---
-title: 3. Beneficios clave para las empresas
+title: 3. Beneficios Clave para las Empresas: Comparación de Plataformas
 excerpt: 'Realizado por: Valentina Saltos, Andreina Olivares y Lucas Santos. Descubre cómo la ingeniería de plataformas optimiza el desarrollo de software, mejorando la eficiencia, la automatización y la colaboración en las empresas. Exploramos sus beneficios clave, desde la reducción de costos hasta la aceleración de la entrega de productos, impulsando la innovación y la competitividad en el mercado. 💰'
 publishDate: 'Jan 28 2025'
 tags:
@@ -14,27 +14,45 @@ seo:
 
 ![Wind turbine](/post-12.jpg)
 
-**Note del profe:** comparación de plataformas, dar un background de beneficios de cada empresa que este comparando
+**Nota del profe:** Comparación de plataformas, dar un background de beneficios de cada empresa que esté comparando.
 
+---
 
-## **Incremento de la productividad de los desarrolladores**
-#### **- (Valentina Saltos)** 
+## **Tabla de Comparación de Beneficios**
+#### **- (Lucas Santos)**  
 
-Tailwind CSS is a utility-first CSS framework created by Adam Wathan, Jonathan Reinink, David Hemphill, and Steve Schoger. Unlike traditional CSS frameworks like Bootstrap or Foundation, which provide pre-designed components, Tailwind CSS offers a set of utility classes that you can apply directly to HTML elements.
+| Plataformas   | Beneficio Clave               | Background |
+|--------------|------------------------------|------------|
+| AWS         | Escalabilidad y alta disponibilidad | Amazon Web Services ofrece infraestructura global con capacidad de expansión automática. |
+| Azure       | Integración con Microsoft     | Azure permite una integración nativa con productos Microsoft como Office 365 y Active Directory. |
+| Google Cloud | Optimización en IA           | Google Cloud se especializa en AI y ML con herramientas como TensorFlow. |
+| Kubernetes  | Gestión de contenedores       | Kubernetes facilita la orquestación de contenedores a gran escala. |
 
-## **Reducción de la complejidad en sistemas**
-#### **- (Andreina Olivares)**
+---
 
-1. **Modularity:** Tailwind CSS promotes a modular approach to styling. Each utility class corresponds to a specific CSS property, making it easy to compose and modify styles.
+## **Evaluación de Costos y Eficiencia en Diferentes Plataformas**
+#### **- (Andreina Olivares)**  
+- Comparación de costos entre AWS, Azure y Google Cloud.  
+- Modelos de precios (pago por uso, suscripciones, descuentos por volumen).  
+- Relación costo-beneficio en pequeñas, medianas y grandes empresas.  
 
-2. **Customization:** Tailwind CSS is highly customizable. You can configure the framework to generate only the CSS you need, keeping your project's file size to a minimum.
+---
 
-## **Mejora en el tiempo de entrega (Time-to-Market)**
-#### **-(Lucas Santos)** 
+## **Seguridad en Plataformas Cloud Computing**
+#### **- (Lucas Santos)**  
+- Medidas de seguridad que implementa cada plataforma (cifrado, autenticación, firewalls).  
+- Cumplimiento de normativas y regulaciones en cada proveedor (GDPR, ISO 27001, SOC 2).  
+- Casos de vulnerabilidades y cómo fueron resueltas.  
 
-4. **Developer-Friendly:** Developers love Tailwind CSS for its clear and intuitive class names, which make it easy to understand and collaborate on the codebase.
+---
 
+## **Flexibilidad y Adaptabilidad de Soluciones Cloud**
+#### **- (Valentina Saltos)**  
+- Capacidad de integración con otras tecnologías y software empresarial.  
+- Facilidad para migrar datos y aplicaciones entre plataformas.  
+- Soporte para arquitecturas híbridas y multinube.  
+
+---
 ## Conclusion
-
-Tailwind CSS has emerged as a powerhouse in modern web development. Its utility-first approach, flexibility, and developer-friendly features have made it a top choice for front-end developers worldwide. Whether you're a seasoned developer looking to streamline your workflow or a newcomer seeking a versatile CSS framework, Tailwind CSS is worth exploring.
-
+- Conclusión general del equipo.
+- Si tienes una idea de conclusión mandarla al grupo para que aportemos a esa conclusión y formular algo coherente entre todos.

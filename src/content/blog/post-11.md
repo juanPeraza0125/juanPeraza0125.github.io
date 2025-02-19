@@ -1,5 +1,5 @@
 ---
-title: 4. Casos de éxito
+title: 4. Casos de Éxito en la Ingeniería de Plataformas
 excerpt: 'Realizado por: Lilian Lopez y Jaider Ramirez. Descubre cómo la ingeniería de plataformas impulsa la innovación en el desarrollo de software. En este blog, exploramos casos de éxito de empresas que han optimizado sus flujos de trabajo, mejorado la colaboración entre equipos y acelerado la entrega de productos mediante plataformas internas, automatización y DevOps. ¡Inspírate con sus logros! 🎉'
 publishDate: 'Jan 27 2025'
 tags:
@@ -16,25 +16,26 @@ seo:
 **Note:** Las aplicaciones que se usaron en esos casos de exito, la empresa q lo implemento y  la tecnología que se uso.
 
 
-## **Empresas líderes y sus implementaciones**
+## **Aplicaciones donde se han usado con éxito**
 #### **- (Lilian Lopez)**
+- Casos de uso en sectores como fintech, e-commerce y salud.
 
-**Learn HTML, CSS, and Basic JavaScript:** Begin your journey by mastering the fundamentals. Understand how HTML, CSS, and JavaScript work together to create web pages.
+---
 
-**Create Simple Websites:** Practice by building basic websites and web pages. Get comfortable with the structure and layout.
-
-**Version Control:** Learn the basics of version control with Git and GitHub to track changes in your code.
-
-**Responsive Web Design:** Understand the principles of responsive design to make your websites look great on all devices.
-
-## **Resultados tangibles de adoptar ingeniería de plataformas**
+## **Empresas que implementaron estas soluciones**
 #### **- (Jaider Ramirez)**
+- Ejemplos como Netflix con AWS, Spotify con Google Cloud, etc.
+
+---
 
 
-**Advanced JavaScript:** Dive deeper into JavaScript, learning about ES6 features, asynchronous programming, and the DOM (Document Object Model).
+## **Empresas que implementaron estas soluciones**
+#### **- (Jaider Ramirez y Lilian Lopez)**
+- Herramientas clave como Kubernetes, Terraform, Jenkins, React, etc. O cualquier otra tecnología (herramienta o framework) que se haya usado en dicho caso de éxito.
 
-**CSS Preprocessors:** Explore CSS preprocessors like SASS or LESS to streamline your stylesheets.
+---
 
-**Learn a Front-End Framework:** Start with a framework like Tailwind CSS to enhance your website-building capabilities.
+## Conclusion
+- Conclusión general del equipo.
+- Si tienes una idea de conclusión mandarla al grupo para que aportemos a esa conclusión y formular algo coherente entre todos.
 
-**8. Web Performance:** Study web performance optimization techniques to ensure fast-loading websites.

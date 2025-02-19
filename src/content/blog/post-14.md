@@ -18,17 +18,27 @@ seo:
 
 > Web frameworks are the architectural blueprints that empower developers to build the digital landscapes of tomorrow.
 
-## **¿Qué es la ingeniería de plataformas?**
-#### **- (Nicolas Parra)**
-
-Start by thoroughly understanding the specific requirements of your web project. Consider factors such as the project's scope, complexity, and the features you need. Ask questions like:
-
-- What is the project's purpose?
-- What are the key functionalities it should have?
-- Are there any specific technical or performance requirements?
-
-## **Evolución y propósito en la industria tecnológica**
+## **Definición de la Ingeniería de Plataformas**
 #### **- (Fabricio Flores)**
 
-Determine your preferred technology stack. This includes choices for the frontend (HTML, CSS, JavaScript), backend (programming language, database), and any other technologies you plan to use. Your framework should align with your chosen tech stack.
+- Que es la ingeniería de plataformas? 
 
+---
+
+## **Historia y Evolución**
+#### **- (Fabricio Flores)**
+
+- Análisis de la evolución de este campo desde sus inicios hasta la actualidad
+
+---
+
+## **Comparativa con otros enfoques**
+#### **- (Nicolas Parra)**
+
+- Diferencias entre la ingeniería de plataformas y metodologías como DevOps y SRE
+
+---
+
+## Conclusion
+- Conclusión general del equipo.
+- Si tienes una idea de conclusión mandarla al grupo para que aportemos a esa conclusión y formular algo coherente entre todos.
