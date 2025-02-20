@@ -50,6 +50,22 @@ Las aplicaciones de software tradicionales requieren una licencia de software pa
 
 ![ejemploBlog](/Imagen1ejemplo.png)
 
+### **Visualizar el flujo de trabajo**
+
+El primer paso para mejorar un proceso es hacerlo visible. Para ello, se utiliza un tablero con columnas que representan las etapas del trabajo, generalmente categorizadas como "Por hacer", "En progreso" y "Terminado". Cada tarea se muestra en una tarjeta que se mueve conforme avanza. Esto permite al equipo identificar claramente el estado de cada actividad y detectar posibles obstáculos que puedan retrasar la entrega.    
+
+### **Limitar el trabajo en progreso**
+
+Para evitar la saturación del equipo, se establece un número máximo de tareas que pueden estar en cada fase del proceso. Cuando una fase se llena, el equipo debe completar tareas antes de iniciar nuevas, lo que permite prevenir los cuellos de botella, que son los puntos del proceso donde el flujo de trabajo se ralentiza debido a una sobrecarga o falta de recursos. 
+
+### **Gestionar el flujo**
+
+Para que las tareas avancen de manera fluida, se utilizan indicadores, como el tiempo que tarda una tarea en completarse desde su inicio hasta su finalización. Si se detectan demoras, se analizan las causas y se ajusta el proceso para optimizar el desempeño del equipo. 
+
+### **Mejora continua**
+
+Para que exista una evolución constante del proceso de trabajo, los equipos revisan periódicamente su desempeño. Este enfoque fomenta la experimentación y la adaptación, permitiendo ajustes basados en la experiencia y en datos concretos.
+
 
 
 ## Conclusion
