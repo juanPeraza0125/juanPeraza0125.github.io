@@ -1,7 +1,6 @@
 ---
 title: '3. Beneficios Clave para las Empresas: Comparación de Plataformas'
-excerpt: "Realizado por: Valentina Saltos, Andreina Olivares y Lucas Santos.
- Descubre cómo la ingeniería de plataformas optimiza el desarrollo de software, mejorando la eficiencia, la automatización y la colaboración en las empresas. Exploramos sus beneficios clave, desde la reducción de costos hasta la aceleración de la entrega de productos, impulsando la innovación y la competitividad en el mercado. 💰'
+excerpt: "Realizado por: Valentina Saltos, Andreina Olivares y Lucas Santos. Descubre cómo la ingeniería de plataformas optimiza el desarrollo de software, mejorando la eficiencia, la automatización y la colaboración en las empresas. Exploramos sus beneficios clave, desde la reducción de costos hasta la aceleración de la entrega de productos, impulsando la innovación y la competitividad en el mercado. 💰'
 publishDate: 'Jan 28 2025'
 tags:
   - Web

@@ -1,7 +1,6 @@
 ---
 title: '4. Casos de Éxito en la Ingeniería de Plataformas'
-excerpt: 'Realizado por: Lilian Lopez y Jaider Ramirez.
- Descubre cómo la ingeniería de plataformas impulsa la innovación en el desarrollo de software. En este blog, exploramos casos de éxito de empresas que han optimizado sus flujos de trabajo, mejorado la colaboración entre equipos y acelerado la entrega de productos mediante plataformas internas, automatización y DevOps. ¡Inspírate con sus logros! 🎉'
+excerpt: 'Realizado por: Lilian Lopez y Jaider Ramirez. Descubre cómo la ingeniería de plataformas impulsa la innovación en el desarrollo de software. En este blog, exploramos casos de éxito de empresas que han optimizado sus flujos de trabajo, mejorado la colaboración entre equipos y acelerado la entrega de productos mediante plataformas internas, automatización y DevOps. ¡Inspírate con sus logros! 🎉'
 publishDate: 'Jan 27 2025'
 tags:
   - Web
